@@ -11,6 +11,7 @@ function adminLogin(username, password) {
   }
 }
 
+
 /*
   Write a method `hows_the_weather` that takes in one argument, a temperature.
   If the temperature is below 40, return "It's brisk out there!". If the temperature is
